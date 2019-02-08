@@ -1,0 +1,461 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2007/12/26/clinton-refines-her-message-with-an-edge/",
+                "snippet": "A more pointed attack on the Bush presidency",
+                "abstract": "A more pointed attack on the Bush presidency",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Clinton Refines Message, With an Edge",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2007-12-26T21:48:38Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By PATRICK HEALY",
+                    "person": [
+                        {
+                            "firstname": "Patrick",
+                            "middlename": null,
+                            "lastname": "HEALY",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbdd",
+                "word_count": 823,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/03/the-caucuses-gavel-to-gavel-on-c-span/",
+                "snippet": "C-SPAN will be the only channel showing live coverage of actual caucuses.",
+                "abstract": "C-SPAN will be the only channel showing live coverage of actual caucuses.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "The Caucuses, Gavel to Gavel, On C-SPAN",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-03T18:12:05Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By BRIAN STELTER",
+                    "person": [
+                        {
+                            "firstname": "Brian",
+                            "middlename": null,
+                            "lastname": "STELTER",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbe5",
+                "word_count": 58,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/04/the-odds-of-becoming-president/",
+                "snippet": "Confused about who to support for president? The markets can help you sort it out.",
+                "abstract": "Confused about who to support for president? The markets can help you sort it out.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "The Odds of Becoming President",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-04T10:51:10Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By DAVID LEONHARDT",
+                    "person": [
+                        {
+                            "firstname": "David",
+                            "middlename": null,
+                            "lastname": "LEONHARDT",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbe9",
+                "word_count": 433,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/07/a-candidate-spurned/",
+                "snippet": "By the time they touched down in New Hampshire last week, Hillary Rodham Clinton and her aides had begun dissing Iowa and its role in the process.",
+                "abstract": "By the time they touched down in New Hampshire last week, Hillary Rodham Clinton and her aides had begun dissing Iowa and its role in the process.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "A Candidate Spurned",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-07T12:18:02Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By MATT BAI",
+                    "person": [
+                        {
+                            "firstname": "Matt",
+                            "middlename": null,
+                            "lastname": "BAI",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbeb",
+                "word_count": 745,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/08/the-visibility-primary/",
+                "snippet": "It appears that Ron Paul might be the front-runner in one area.",
+                "abstract": "It appears that Ron Paul might be the front-runner in one area.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "The 'Visibility Primary'",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-08T13:28:48Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By MARK LEIBOVICH",
+                    "person": [
+                        {
+                            "firstname": "Mark",
+                            "middlename": null,
+                            "lastname": "LEIBOVICH",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbec",
+                "word_count": 255,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/06/photos-sunday-on-the-trail/",
+                "snippet": "Republican and Democratic presidential candidates set to make their final arguments in person to as many New Hampshire voters as they could find.",
+                "abstract": "Republican and Democratic presidential candidates set to make their final arguments in person to as many New Hampshire voters as they could find.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Photos: Sunday on the Trail",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-06T20:13:52Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By THE NEW YORK TIMES",
+                    "person": [],
+                    "organization": "THE NEW YORK TIMES"
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbed",
+                "word_count": 26,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/11/clinton-found-her-voice-now-seeks-youth/",
+                "snippet": "Hillary Rodham Clinton's campaign posted two new videos online today -- one just for the Web in which she takes questions from young voters, and the other a new TV ad for Nevada and South Carolina.",
+                "abstract": "Hillary Rodham Clinton's campaign posted two new videos online today -- one just for the Web in which she takes questions from young voters, and the other a new TV ad for Nevada and South Carolina.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Clinton Found Her Voice, Now Seeks Youth",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-11T17:32:31Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By ARIEL ALEXOVICH",
+                    "person": [
+                        {
+                            "firstname": "Ariel",
+                            "middlename": null,
+                            "lastname": "ALEXOVICH",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbf4",
+                "word_count": 309,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/13/obama-questions-nevada-caucus-lawsuit/",
+                "snippet": "The teachers union is challenging caucus sites on the Vegas Strip.",
+                "abstract": "The teachers union is challenging caucus sites on the Vegas Strip.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Obama Questions Nevada Caucus Lawsuit",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-13T19:55:41Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By JEFF ZELENY",
+                    "person": [
+                        {
+                            "firstname": "Jeff",
+                            "middlename": null,
+                            "lastname": "ZELENY",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbf5",
+                "word_count": 428,
+                "score": 1
+            },
+            {
+                "web_url": "https://thecaucus.blogs.nytimes.com/2008/01/16/the-latest-thompson-ad-blitz/",
+                "snippet": "The Republican candidate plans to broadcast a 60-second commercial on several networks and channels tomorrow night.",
+                "abstract": "The Republican candidate plans to broadcast a 60-second commercial on several networks and channels tomorrow night.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "The Latest Thompson Ad Blitz",
+                    "kicker": "The Caucus",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-16T20:04:15Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By KATE PHILLIPS",
+                    "person": [
+                        {
+                            "firstname": "Kate",
+                            "middlename": null,
+                            "lastname": "PHILLIPS",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd369d38eb7c8105d8bcbf9",
+                "word_count": 338,
+                "score": 1
+            },
+            {
+                "web_url": "https://carpetbagger.blogs.nytimes.com/2008/01/22/atonement-obits-were-dead-on-arrival/",
+                "snippet": "James Schamus, the man behind \"atonement,\" offers a gracious \"I told you so\" to all the doubters.",
+                "abstract": "James Schamus, the man behind \"atonement,\" offers a gracious \"I told you so\" to all the doubters.",
+                "blog": {},
+                "source": "The New York Times",
+                "multimedia": [],
+                "headline": {
+                    "main": "Atonement: Obits Were Dead on Arrival",
+                    "kicker": "Carpetbagger",
+                    "content_kicker": null,
+                    "print_headline": null,
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "type_of_material",
+                        "value": "News",
+                        "rank": 1,
+                        "major": null
+                    }
+                ],
+                "pub_date": "2008-01-22T14:02:34Z",
+                "document_type": "blogpost",
+                "byline": {
+                    "original": "By THE BAGGER",
+                    "person": [],
+                    "organization": "THE BAGGER"
+                },
+                "type_of_material": "Blog",
+                "_id": "4fd36a2e8eb7c8105d8bd79c",
+                "word_count": 199,
+                "score": 1
+            }
+        ],
+        "meta": {
+            "hits": 15431985,
+            "offset": 0,
+            "time": 1594
+        }
+    }
+}
