@@ -1,0 +1,13 @@
+.styleContainer{
+    border: 2px solid green !important;
+    width: 272px;
+    height: 222px;
+    margin-left: 361px !important;
+}
+input{
+    width: 226px !important;
+    height: 20px !important;
+}
+.floated{
+    float: left;
+}

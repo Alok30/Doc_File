@@ -1,0 +1,39 @@
+{
+<<<<<<< HEAD
+  "name": "device_interface",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3",
+    "react": "^16.8.1",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.1",
+=======
+  "name": "device-interfacing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+>>>>>>> 2f297052c186d61ec0794e08cd614e5d3ac40867
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

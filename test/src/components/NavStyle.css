@@ -1,0 +1,15 @@
+.navStyle{
+    color:black;
+    font: 100px;  
+}
+.marginLeft{
+    margin-left: 86px;
+}
+.marginInBetween{
+    margin-left: 54px;
+}
+.styleLink:hover{
+    color:green !important;
+    background-color: white !important;
+    border-bottom: 3px solid green;
+}
