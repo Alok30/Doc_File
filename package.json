@@ -16,7 +16,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/nltrainees/newspaperarticles#readme",
   "dependencies": {
-    "bcrypt": "^3.0.3",
+    "bcrypt": "^5.0.0",
     "cookie": "^0.3.1",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.4",
