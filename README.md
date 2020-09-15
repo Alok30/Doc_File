@@ -83,9 +83,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the Nineleaps  
 
-## Acknowledgments
 
-* Team Nineleaps
-* Inspiration(Nineleaps)
 
 
